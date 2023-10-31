@@ -5,7 +5,7 @@ Sebagai tugas praktikum: [3] Bahasa Pemrograman | Universitas Pelita Bangsa.
 * Latihan 1:
 > Mencetak teks menggunakan Python dengan beberapa ketentuan.
 <p align="left">
-  <img src="/ss/1.jpg" width="500">
+  <img src="/ss/1.png" width="500">
 </p>
 
     # Mencetak beberapa teks
@@ -40,7 +40,7 @@ perintah dan fungsi sudah dijelaskan pada bagian ***#***.
 * Latihan 3:
 > bisa saja menggunakan ***string format*** tapi kurang efisien.
 <p align="left">
-  <img src="/ss/2.jpg" width="500">
+  <img src="/ss/2.png" width="500">
 </p>
 
     def create_diamond(rows):
@@ -60,7 +60,7 @@ perintah dan fungsi sudah dijelaskan pada bagian ***#***.
 
 * Menghitung keliling dan luas lingkaran beserta Flowchart-nya:
 <p align="left">
-  <img src="/ss/3.jpg" width="400">
+  <img src="/ss/3.png" width="400">
   <img src="/ss/extra.jpg" width="400">
 </p>
 
