@@ -61,7 +61,7 @@ perintah dan fungsi sudah dijelaskan pada bagian ***#***.
 * Menghitung keliling dan luas lingkaran beserta Flowchart-nya:
 <p align="left">
   <img src="/ss/3.png" width="400">
-  <img src="/ss/extra.jpg" width="400">
+  <img src="/ss/extra.jpg" width="100">
 </p>
 
     # Masukan jumlah jari-jari lingkaran
